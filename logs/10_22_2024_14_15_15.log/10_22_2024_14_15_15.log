@@ -1,0 +1,2 @@
+[ 2024-10-22 14:19:00,423 ] 43 root - INFO - Total records extracted: 2138040
+[ 2024-10-22 14:21:08,901 ] 91 root - ERROR - An error occurred: Error occured in python script name [D:\My_Projects\Network Anomaly detection\push_data.py] line number [60] error message [you are over your space quota, using 512 MB of 512 MB, full error: {'ok': 0, 'errmsg': 'you are over your space quota, using 512 MB of 512 MB', 'code': 8000, 'codeName': 'AtlasError'}]
