@@ -57,7 +57,7 @@ class NetworkDataExtract():
         
 if __name__ == '__main__':
     FILE_PATH = [os.path.join("Network_Data", f"file{i}.csv") for i in range(0,1)]
-    DATABASE = 'ABHI'
+    DATABASE = "ABHI"
     Collection = "Network_Data"
     
     networkobj = NetworkDataExtract()
